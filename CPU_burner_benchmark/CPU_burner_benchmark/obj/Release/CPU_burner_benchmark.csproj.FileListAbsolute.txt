@@ -1,0 +1,11 @@
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\bin\Release\CPU_burner_benchmark.exe.config
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\bin\Release\CPU_burner_benchmark.exe
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\bin\Release\CPU_burner_benchmark.pdb
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\obj\Release\CPU_burner_benchmark.csprojAssemblyReference.cache
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\obj\Release\CPU_burner_benchmark.benchmark.resources
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\obj\Release\CPU_burner_benchmark.Menu.resources
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\obj\Release\CPU_burner_benchmark.Properties.Resources.resources
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\obj\Release\CPU_burner_benchmark.csproj.GenerateResource.cache
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\obj\Release\CPU_burner_benchmark.csproj.CoreCompileInputs.cache
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\obj\Release\CPU_burner_benchmark.exe
+C:\Users\enfri\source\repos\CPU_burner_benchmark\CPU_burner_benchmark\obj\Release\CPU_burner_benchmark.pdb
